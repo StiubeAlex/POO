@@ -1,0 +1,7 @@
+C:\Users\alex_\source\repos\Size of file or folder\Size of file or folder\bin\Debug\Size of file or folder.exe.config
+C:\Users\alex_\source\repos\Size of file or folder\Size of file or folder\bin\Debug\Size of file or folder.exe
+C:\Users\alex_\source\repos\Size of file or folder\Size of file or folder\bin\Debug\Size of file or folder.pdb
+C:\Users\alex_\source\repos\Size of file or folder\Size of file or folder\obj\Debug\Size of file or folder.csprojAssemblyReference.cache
+C:\Users\alex_\source\repos\Size of file or folder\Size of file or folder\obj\Debug\Size of file or folder.csproj.CoreCompileInputs.cache
+C:\Users\alex_\source\repos\Size of file or folder\Size of file or folder\obj\Debug\Size of file or folder.exe
+C:\Users\alex_\source\repos\Size of file or folder\Size of file or folder\obj\Debug\Size of file or folder.pdb
