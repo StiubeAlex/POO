@@ -1,0 +1,7 @@
+C:\Users\alex_\source\repos\Clasa Elevi\Clasa Elevi\bin\Debug\Clasa Elevi.exe.config
+C:\Users\alex_\source\repos\Clasa Elevi\Clasa Elevi\bin\Debug\Clasa Elevi.exe
+C:\Users\alex_\source\repos\Clasa Elevi\Clasa Elevi\bin\Debug\Clasa Elevi.pdb
+C:\Users\alex_\source\repos\Clasa Elevi\Clasa Elevi\obj\Debug\Clasa Elevi.csprojAssemblyReference.cache
+C:\Users\alex_\source\repos\Clasa Elevi\Clasa Elevi\obj\Debug\Clasa Elevi.csproj.CoreCompileInputs.cache
+C:\Users\alex_\source\repos\Clasa Elevi\Clasa Elevi\obj\Debug\Clasa Elevi.exe
+C:\Users\alex_\source\repos\Clasa Elevi\Clasa Elevi\obj\Debug\Clasa Elevi.pdb
