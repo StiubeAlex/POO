@@ -1,0 +1,7 @@
+C:\Users\alex_\source\repos\ConsoleApp69\ConsoleApp69\bin\Debug\ConsoleApp69.exe.config
+C:\Users\alex_\source\repos\ConsoleApp69\ConsoleApp69\bin\Debug\ConsoleApp69.exe
+C:\Users\alex_\source\repos\ConsoleApp69\ConsoleApp69\bin\Debug\ConsoleApp69.pdb
+C:\Users\alex_\source\repos\ConsoleApp69\ConsoleApp69\obj\Debug\ConsoleApp69.csprojAssemblyReference.cache
+C:\Users\alex_\source\repos\ConsoleApp69\ConsoleApp69\obj\Debug\ConsoleApp69.csproj.CoreCompileInputs.cache
+C:\Users\alex_\source\repos\ConsoleApp69\ConsoleApp69\obj\Debug\ConsoleApp69.exe
+C:\Users\alex_\source\repos\ConsoleApp69\ConsoleApp69\obj\Debug\ConsoleApp69.pdb
