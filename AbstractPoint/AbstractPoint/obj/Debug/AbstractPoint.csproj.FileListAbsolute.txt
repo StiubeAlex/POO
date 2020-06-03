@@ -1,0 +1,13 @@
+C:\AnyThingElse\PB VS C#\AbstractPoint\AbstractPoint\bin\Debug\AbstractPoint.exe.config
+C:\AnyThingElse\PB VS C#\AbstractPoint\AbstractPoint\bin\Debug\AbstractPoint.exe
+C:\AnyThingElse\PB VS C#\AbstractPoint\AbstractPoint\bin\Debug\AbstractPoint.pdb
+C:\AnyThingElse\PB VS C#\AbstractPoint\AbstractPoint\obj\Debug\AbstractPoint.csprojAssemblyReference.cache
+C:\AnyThingElse\PB VS C#\AbstractPoint\AbstractPoint\obj\Debug\AbstractPoint.exe
+C:\AnyThingElse\PB VS C#\AbstractPoint\AbstractPoint\obj\Debug\AbstractPoint.pdb
+C:\Users\alex_\Desktop\OOP-master\OOP-master\AbstractPoint\AbstractPoint\bin\Debug\AbstractPoint.exe.config
+C:\Users\alex_\Desktop\OOP-master\OOP-master\AbstractPoint\AbstractPoint\bin\Debug\AbstractPoint.exe
+C:\Users\alex_\Desktop\OOP-master\OOP-master\AbstractPoint\AbstractPoint\bin\Debug\AbstractPoint.pdb
+C:\Users\alex_\Desktop\OOP-master\OOP-master\AbstractPoint\AbstractPoint\obj\Debug\AbstractPoint.csprojAssemblyReference.cache
+C:\Users\alex_\Desktop\OOP-master\OOP-master\AbstractPoint\AbstractPoint\obj\Debug\AbstractPoint.csproj.CoreCompileInputs.cache
+C:\Users\alex_\Desktop\OOP-master\OOP-master\AbstractPoint\AbstractPoint\obj\Debug\AbstractPoint.exe
+C:\Users\alex_\Desktop\OOP-master\OOP-master\AbstractPoint\AbstractPoint\obj\Debug\AbstractPoint.pdb
