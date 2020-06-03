@@ -1,0 +1,14 @@
+D:\z.semestrul 2\OOP\Agenda Personala\Agenda Personala\bin\Debug\Agenda Personala.exe.config
+D:\z.semestrul 2\OOP\Agenda Personala\Agenda Personala\bin\Debug\Agenda Personala.exe
+D:\z.semestrul 2\OOP\Agenda Personala\Agenda Personala\bin\Debug\Agenda Personala.pdb
+D:\z.semestrul 2\OOP\Agenda Personala\Agenda Personala\obj\Debug\Agenda Personala.csprojAssemblyReference.cache
+D:\z.semestrul 2\OOP\Agenda Personala\Agenda Personala\obj\Debug\Agenda Personala.csproj.CoreCompileInputs.cache
+D:\z.semestrul 2\OOP\Agenda Personala\Agenda Personala\obj\Debug\Agenda Personala.exe
+D:\z.semestrul 2\OOP\Agenda Personala\Agenda Personala\obj\Debug\Agenda Personala.pdb
+C:\Users\alex_\Desktop\Agenda Personala\Agenda Personala\bin\Debug\Agenda Personala.exe.config
+C:\Users\alex_\Desktop\Agenda Personala\Agenda Personala\bin\Debug\Agenda Personala.exe
+C:\Users\alex_\Desktop\Agenda Personala\Agenda Personala\bin\Debug\Agenda Personala.pdb
+C:\Users\alex_\Desktop\Agenda Personala\Agenda Personala\obj\Debug\Agenda Personala.csprojAssemblyReference.cache
+C:\Users\alex_\Desktop\Agenda Personala\Agenda Personala\obj\Debug\Agenda Personala.csproj.CoreCompileInputs.cache
+C:\Users\alex_\Desktop\Agenda Personala\Agenda Personala\obj\Debug\Agenda Personala.exe
+C:\Users\alex_\Desktop\Agenda Personala\Agenda Personala\obj\Debug\Agenda Personala.pdb
