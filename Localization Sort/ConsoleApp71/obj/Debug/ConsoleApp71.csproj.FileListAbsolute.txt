@@ -1,0 +1,7 @@
+C:\Users\alex_\source\repos\ConsoleApp71\ConsoleApp71\obj\Debug\ConsoleApp71.csprojAssemblyReference.cache
+C:\Users\alex_\source\repos\ConsoleApp71\ConsoleApp71\obj\Debug\ConsoleApp71.csproj.CoreCompileInputs.cache
+C:\Users\alex_\source\repos\ConsoleApp71\ConsoleApp71\bin\Debug\ConsoleApp71.exe.config
+C:\Users\alex_\source\repos\ConsoleApp71\ConsoleApp71\bin\Debug\ConsoleApp71.exe
+C:\Users\alex_\source\repos\ConsoleApp71\ConsoleApp71\bin\Debug\ConsoleApp71.pdb
+C:\Users\alex_\source\repos\ConsoleApp71\ConsoleApp71\obj\Debug\ConsoleApp71.exe
+C:\Users\alex_\source\repos\ConsoleApp71\ConsoleApp71\obj\Debug\ConsoleApp71.pdb
