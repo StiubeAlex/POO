@@ -1,0 +1,7 @@
+C:\Users\alex_\source\repos\Form 2D\Form 2D\bin\Debug\Form 2D.exe.config
+C:\Users\alex_\source\repos\Form 2D\Form 2D\bin\Debug\Form 2D.exe
+C:\Users\alex_\source\repos\Form 2D\Form 2D\bin\Debug\Form 2D.pdb
+C:\Users\alex_\source\repos\Form 2D\Form 2D\obj\Debug\Form 2D.csprojAssemblyReference.cache
+C:\Users\alex_\source\repos\Form 2D\Form 2D\obj\Debug\Form 2D.csproj.CoreCompileInputs.cache
+C:\Users\alex_\source\repos\Form 2D\Form 2D\obj\Debug\Form 2D.exe
+C:\Users\alex_\source\repos\Form 2D\Form 2D\obj\Debug\Form 2D.pdb
